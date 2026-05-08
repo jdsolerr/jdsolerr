@@ -50,7 +50,7 @@ Además de Flutter, también trabajo con tecnologías backend y herramientas que
 
 ### Contacto
 
-- GitHub: https://github.com/alenn-dev
+- GitHub: https://github.com/jdsolerr
 - Email: jdsolerr@outlook.com
 - Portafolio: *Pendiente*
 
@@ -102,6 +102,6 @@ Besides Flutter, I also work with backend technologies that allow me to build co
 
 ### Contact
 
-- GitHub: https://github.com/alenn-dev
+- GitHub: https://github.com/jdsolerr
 - Email: jdsolerr@outlook.com
 - Portfolio: *Pending*

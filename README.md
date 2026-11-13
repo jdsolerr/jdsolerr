@@ -54,21 +54,50 @@ Construyo aplicaciones **móviles y de escritorio con Flutter**, APIs con **Pyth
 <details>
 <summary><b>🇺🇸 English</b></summary>
 
+
 <br/>
 
-### Hi, I'm Juan Diego 👋
+<div align="center">
 
-**Fullstack developer** based in Colombia. I build cross-platform apps, APIs and desktop tools, focused on simple architecture and software that feels fast.
+## Hi, I'm Juan Diego 👋
 
-- **Apps:** Flutter and Dart for Android, iOS, Windows and macOS.
-- **Web and desktop:** Vue, React, SolidJS, TypeScript, Rust and Tauri.
-- **Backend:** Python (FastAPI) and Go (Fiber, GORM), with Docker, Kafka and GraphQL.
-- **Interests:** software architecture, automation and application security.
+**Fullstack developer** · Colombia 🇨🇴<br/>
+Cross-platform apps, APIs and desktop tools, built around simple architecture<br/>
+and software that feels fast.
 
-**Featured projects:** [Grove](https://github.com/jdsolerr/grove) (desktop Git client in Rust), [Comerzia](https://github.com/jdsolerr/comerzia) (offline POS invoicing), [Looky API](https://github.com/jdsolerr/looky-api) (real-time order tracking in Go) and [Todo API](https://github.com/jdsolerr/todo-api) (REST API with JWT and rate limiting).
+</div>
 
-**Currently:** building Pulso (a cross-platform platform with Tauri, Flutter and FastAPI), growing Grove and working on Finnix, a personal finance manager.
+### About me
 
-**Contact:** [jdsolerr@outlook.com](mailto:jdsolerr@outlook.com)
+I build **mobile and desktop apps with Flutter**, backends with **Python (FastAPI)** and **Go (Fiber)**, and lately native desktop tools with **Rust and Tauri**. I care about clean architecture, automation and application security.
+
+### Stack
+
+| Area | Technologies |
+|---|---|
+| Apps | Flutter, Dart (Android, iOS, Windows, macOS) |
+| Web & desktop | Vue, React, SolidJS, TypeScript, Rust, Tauri |
+| Backend | Python, FastAPI, Go, Fiber, GORM |
+| Infra & data | Docker, Kafka, GraphQL, SQLite |
+
+### Featured projects
+
+| Project | What it is | Stack |
+|---|---|---|
+| [**Grove**](https://github.com/jdsolerr/grove) | Fast, lightweight desktop Git client: changes, history, branches, Pull Requests and AI-assisted commit messages. | Rust · Tauri · SolidJS |
+| [**Comerzia**](https://github.com/jdsolerr/comerzia) | Offline POS invoicing with advanced inventory, billing and PDF export. | Rust |
+| [**Looky API**](https://github.com/jdsolerr/looky-api) | Real-time order tracking: role-based JWT auth, WebSockets, Kafka and GraphQL. | Go · Docker |
+| [**Todo API**](https://github.com/jdsolerr/todo-api) | REST API with JWT, rate limiting, middleware and soft-delete CRUD. | Go · Fiber · GORM |
+| [**Wallet API**](https://github.com/jdsolerr/wallet-api) | Mini financial system *(in progress)*. | — |
+
+### Right now
+
+- 🫀 Building **Pulso**, a cross-platform platform with Tauri, Flutter and FastAPI.
+- 🌱 Maintaining and growing **Grove** (v0.1).
+- 💸 Working on **Finnix**, a personal finance manager.
+
+### Contact
+
+[jdsolerr@outlook.com](mailto:jdsolerr@outlook.com)
 
 </details>

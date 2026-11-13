@@ -37,6 +37,7 @@ Construyo aplicaciones **móviles y de escritorio con Flutter**, APIs con **Pyth
 
 | Proyecto | Qué es | Stack |
 |---|---|---|
+| **Pulso** | Plataforma multiplataforma con app de escritorio, app móvil y API *(en desarrollo)*. | Tauri · React · Flutter · FastAPI |
 | [**Grove**](https://github.com/jdsolerr/grove) | Cliente Git de escritorio, rápido y ligero: cambios, historial, ramas, Pull Requests y commits asistidos por IA. | Rust · Tauri · SolidJS |
 | [**Comerzia**](https://github.com/jdsolerr/comerzia) | Facturador POS offline con inventario avanzado, facturación y PDF. | Rust |
 | [**Looky API**](https://github.com/jdsolerr/looky-api) | Seguimiento de pedidos en tiempo real: JWT con roles, WebSockets, Kafka y GraphQL. | Go · Docker |
@@ -83,6 +84,7 @@ I build **mobile and desktop apps with Flutter**, backends with **Python (FastAP
 
 | Project | What it is | Stack |
 |---|---|---|
+| **Pulso** | Cross-platform platform with a desktop app, a mobile app and an API *(in development)*. | Tauri · React · Flutter · FastAPI |
 | [**Grove**](https://github.com/jdsolerr/grove) | Fast, lightweight desktop Git client: changes, history, branches, Pull Requests and AI-assisted commit messages. | Rust · Tauri · SolidJS |
 | [**Comerzia**](https://github.com/jdsolerr/comerzia) | Offline POS invoicing with advanced inventory, billing and PDF export. | Rust |
 | [**Looky API**](https://github.com/jdsolerr/looky-api) | Real-time order tracking: role-based JWT auth, WebSockets, Kafka and GraphQL. | Go · Docker |

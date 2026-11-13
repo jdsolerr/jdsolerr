@@ -24,6 +24,8 @@ Construyo aplicaciones **móviles y de escritorio con Flutter**, APIs con **Pyth
 
 </div>
 
+<br/>
+
 | Área | Tecnologías |
 |---|---|
 | Apps | Flutter, Dart (Android, iOS, Windows, macOS) |

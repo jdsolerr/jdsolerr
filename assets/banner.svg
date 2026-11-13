@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 260" width="900" height="260" role="img" aria-label="Juan Diego, desarrollador Fullstack">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1f17"/>
+      <stop offset="0.55" stop-color="#0f3a2a"/>
+      <stop offset="1" stop-color="#157a52"/>
+    </linearGradient>
+    <linearGradient id="name" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#9af0c3"/>
+    </linearGradient>
+    <clipPath id="frame"><rect width="900" height="260" rx="16"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#frame)" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" text-anchor="middle">
+    <rect width="900" height="260" fill="url(#bg)"/>
+
+    <!-- puntos flotantes -->
+    <g fill="#9af0c3">
+      <circle cx="90" cy="70" r="3" opacity="0.35"><animate attributeName="cy" values="70;50;70" dur="6s" repeatCount="indefinite"/></circle>
+      <circle cx="240" cy="190" r="2" opacity="0.3"><animate attributeName="cy" values="190;170;190" dur="7s" repeatCount="indefinite"/></circle>
+      <circle cx="420" cy="40" r="2.5" opacity="0.3"><animate attributeName="cy" values="40;58;40" dur="8s" repeatCount="indefinite"/></circle>
+      <circle cx="660" cy="60" r="3" opacity="0.35"><animate attributeName="cy" values="60;42;60" dur="6.5s" repeatCount="indefinite"/></circle>
+      <circle cx="800" cy="150" r="2" opacity="0.3"><animate attributeName="cy" values="150;132;150" dur="7.5s" repeatCount="indefinite"/></circle>
+    </g>
+
+    <!-- nombre -->
+    <text x="450" y="112" font-size="56" font-weight="700" fill="url(#name)" opacity="0">
+      Juan Diego
+      <animate attributeName="opacity" from="0" to="1" dur="1.2s" fill="freeze"/>
+      <animateTransform attributeName="transform" type="translate" from="0 14" to="0 0" dur="1.2s" fill="freeze"/>
+    </text>
+
+    <!-- frases que rotan -->
+    <g font-size="24" fill="#9af0c3">
+      <text x="450" y="160" opacity="0">Desarrollador Fullstack
+        <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.03;0.30;0.333;1" dur="12s" repeatCount="indefinite"/>
+      </text>
+      <text x="450" y="160" opacity="0">Apps con Flutter · APIs con Go y Python
+        <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.03;0.30;0.333;1" dur="12s" begin="4s" repeatCount="indefinite"/>
+      </text>
+      <text x="450" y="160" opacity="0">Herramientas de escritorio con Rust y Tauri
+        <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.03;0.30;0.333;1" dur="12s" begin="8s" repeatCount="indefinite"/>
+      </text>
+    </g>
+
+    <!-- olas (periodo 450: el desplazamiento de -450 enlaza sin salto) -->
+    <g transform="translate(0 200)">
+      <path fill="#9af0c3" fill-opacity="0.14" d="M0,20 Q112.5,0 225,20 T450,20 T675,20 T900,20 T1125,20 T1350,20 T1575,20 T1800,20 V80 H0 Z">
+        <animateTransform attributeName="transform" type="translate" from="0 0" to="-450 0" dur="14s" repeatCount="indefinite"/>
+      </path>
+      <path fill="#9af0c3" fill-opacity="0.24" d="M0,34 Q112.5,16 225,34 T450,34 T675,34 T900,34 T1125,34 T1350,34 T1575,34 T1800,34 V80 H0 Z">
+        <animateTransform attributeName="transform" type="translate" from="-450 0" to="0 0" dur="9s" repeatCount="indefinite"/>
+      </path>
+    </g>
+  </g>
+</svg>

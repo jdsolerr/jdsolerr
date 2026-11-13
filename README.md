@@ -41,7 +41,6 @@ Construyo aplicaciones **móviles y de escritorio con Flutter**, APIs con **Pyth
 | [**Comerzia**](https://github.com/jdsolerr/comerzia) | Facturador POS offline con inventario avanzado, facturación y PDF. | Rust |
 | [**Looky API**](https://github.com/jdsolerr/looky-api) | Seguimiento de pedidos en tiempo real: JWT con roles, WebSockets, Kafka y GraphQL. | Go · Docker |
 | [**Todo API**](https://github.com/jdsolerr/todo-api) | API REST con JWT, *rate limiting*, middleware y CRUD con borrado lógico. | Go · Fiber · GORM |
-| [**Wallet API**](https://github.com/jdsolerr/wallet-api) | Mini sistema financiero *(en progreso)*. | — |
 
 ## Ahora mismo
 
@@ -88,7 +87,6 @@ I build **mobile and desktop apps with Flutter**, backends with **Python (FastAP
 | [**Comerzia**](https://github.com/jdsolerr/comerzia) | Offline POS invoicing with advanced inventory, billing and PDF export. | Rust |
 | [**Looky API**](https://github.com/jdsolerr/looky-api) | Real-time order tracking: role-based JWT auth, WebSockets, Kafka and GraphQL. | Go · Docker |
 | [**Todo API**](https://github.com/jdsolerr/todo-api) | REST API with JWT, rate limiting, middleware and soft-delete CRUD. | Go · Fiber · GORM |
-| [**Wallet API**](https://github.com/jdsolerr/wallet-api) | Mini financial system *(in progress)*. | — |
 
 ### Right now
 
